@@ -1,0 +1,14 @@
+{
+    "name": "mas/jeasy",
+    "description": "Composer package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sammy Barasa",
+            "email": "barsamms@gmail.com"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^1.7"
+    }
+}
